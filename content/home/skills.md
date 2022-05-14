@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 70%
-    icon: python-brands
+    icon: python
     icon_pack: fab
     name: Python
   - description: 70%
@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: C++
   - description: 30%
-    icon: code-solid
+    icon: code
     icon_pack: fas
     name: Assembler
 # Uncomment to use emoji icons.
