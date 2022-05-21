@@ -38,19 +38,19 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: orcid
-    icon_pack: fas
+    icon_pack: fab
     link: https://orcid.org/0000-0002-0056-8574
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: fab
     link: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=jR7f4CMAAAAJ
   - icon: github
     icon_pack: fas
     link: https://github.com/shmakovmp
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Max-Shmakov
   - icon: a
-    icon_pack: fas
+    icon_pack: fab
     link: https://independent.academia.edu/QwerQeer
 
 # Link to a PDF of your resume/CV.
