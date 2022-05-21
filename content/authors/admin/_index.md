@@ -47,7 +47,7 @@ social:
     icon_pack: fab
     link: https://github.com/shmakovmp
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Max-Shmakov
   - icon: a
     icon_pack: fab
