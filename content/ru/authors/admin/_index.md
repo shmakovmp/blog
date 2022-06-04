@@ -8,7 +8,7 @@ superuser: true
 role: Студент в РУДН
 
 # Organizations/Affiliations to show in About widget
-организации:
+organizations:
   - name: Рудн
     url: https://www.rudn.ru/
 
@@ -16,23 +16,23 @@ role: Студент в РУДН
 bio: Я хороший студент
 
 # Interests to show in About widget
-Интересы:
+interests:
   - Программирование
   - Анимация
   - Игры
 
 # Education to show in About widget
-Образование:
-  Курсы:
-    - курс: Бизнес-Информатика
-      институт: РУДН
-      год: 2021
+education:
+  courses:
+    - course: Бизнес-Информатика
+      institution: РУДН
+      year: 2021
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-соц. сети:
+social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
